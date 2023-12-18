@@ -4,6 +4,19 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Title>BetterTasks</Title>
+    <Description>The handling of tasks in C# could be better. With this package, this becomes a reality for a few aspects.</Description>
+    <PackageProjectUrl>https://github.com/Bonmucho/BetterTasks</PackageProjectUrl>
+    <PackageIcon>icon.png</PackageIcon>
+    <RepositoryUrl>https://github.com/Bonmucho/BetterTasks</RepositoryUrl>
+    <PackageTags>task configureawait simple background</PackageTags>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="icon.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
