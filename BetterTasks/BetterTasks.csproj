@@ -10,6 +10,7 @@
     <PackageIcon>icon.png</PackageIcon>
     <RepositoryUrl>https://github.com/Bonmucho/BetterTasks</RepositoryUrl>
     <PackageTags>task configureawait simple background</PackageTags>
+    <Authors>Philipp Ape</Authors>
   </PropertyGroup>
 
   <ItemGroup>
